@@ -2,8 +2,9 @@
 
 Source code for På loftet sidder nissen text adventure
 
-Included for compilation are Inform6.31 compiler, the Inform 6.11 library and
-the Danish Inform 6.11 library.
+Included is the Inform 6.31 compiler, the Inform 6.11 library and
+the Danish Inform 6.11 library needed to compile the nissen.inf
+source code into the nissen.z5 story file.
 
 ## Usage
 
