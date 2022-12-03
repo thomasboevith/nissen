@@ -1,0 +1,132 @@
+* EN LØSNING TIL PÅ LOFTET SIDDER NISSEN
+* PÅ LOFTET
+x mig
+i
+x skål
+ned
+* PÅ TRAPPEN, FØRSTE SAL
+x malerier
+skub til malerier
+x ur
+stil uret frem
+n
+* KONTORET
+x skrivebord
+x skuffer
+åbn skuffer
+x papir
+tag lim
+x computer
+x mus
+put lim på musen
+tænd computer
+123456
+x filer
+list filer
+spil teksteventyr
+spil teksteventyr
+slet filer
+ændre password
+nisse
+sluk computer
+ud
+ø
+* SOVEVÆRELSET
+væk forældre
+x natborde
+tag vandglas
+hæld vand på forældre
+ud
+s
+* BØRNEVÆRELSET
+x konsol
+sluk konsol
+x stikkontakt
+sluk stikkontakt
+ud
+v
+* BADEVÆRELSET
+x vask
+tag sæbe
+smid sæben
+vent
+tag læbestift
+brug læbestift
+skriv på spejlet med læbestiften
+smid læbestift
+ud
+ned
+* ENTREEN
+x tøj
+rør tøj
+x sko
+x kamera
+tag sko
+smid sko på kamera
+v
+* BRYGGERS
+x reoler
+i
+tag spraydåser
+ud
+ø
+* DAGLIGSTUEN
+x kat
+rør kat
+x fjernsyn
+tænd fjernsynet
+skift kanal
+skift kanal
+skift kanal
+x stereoanlæg
+x plader
+tænd anlægget
+tag plade
+læg pladen på grammofonen
+tænd anlægget
+skru op for anlægget
+skift plade
+skift plade
+skift plade
+x juletræ
+mal juletræ
+ud
+n
+* KØKKEN
+x køleskab
+tag brød
+læg brød i brødrister
+tænd brødrister
+vent
+tænd brødrister
+vent
+ud
+s
+* SPISESTUEN
+x krydderier
+tag chili
+put chili på morgenmad
+ud
+n
+* KØKKEN
+ud
+op
+op
+tag grød
+tag ske
+slå rotter
+* LOK KATTEN MED OP PÅ LOFTET
+ned
+ned
+ø
+x kat
+ud
+n
+x køleskab
+tag sild
+ud
+ø
+ud
+op
+op
+spis risengrød
